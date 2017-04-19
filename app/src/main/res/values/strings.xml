@@ -1,3 +1,85 @@
 <resources>
     <string name="app_name">app-monitor</string>
+    
+    <string-array name="Competitor_List">
+        <item>YY</item>
+        <item>MOMO陌陌</item>
+        <item>快手</item>
+        <item>映客直播</item>
+        <item>花椒直播</item>
+        <item>斗鱼</item>
+        <item>虎牙直播</item>
+        <item>熊猫直播</item>
+        <item>触手</item>
+        <item>战旗直播</item>
+        <item>ME直播</item>
+        <item>NOW直播</item>
+        <item>全民直播</item>
+        <item>小米直播</item>
+        <item>来疯</item>
+        <item>秒拍</item>
+        <item>美拍</item>
+        <item>17</item>
+        <item>腾讯直播</item>
+        <item>企鹅直播</item>
+        <item>抱抱</item>
+        <item>一直播</item>
+        <item>CC直播</item>
+        <item>龙珠直播</item>
+        <item>水晶直播</item>
+        <item>人人-高校美女直播</item>
+        <item>nice</item>
+        <item>喵播</item>
+        <item>齐齐直播</item>
+        <item>蜜桃直播</item>
+        <item>欢乐直播</item>
+        <item>Blued</item>
+        <item>拉拉公园</item>
+        <item>友瓣</item>
+        <item>Twitch</item>
+        <item>Periscope</item>
+        <item>BIGO LIVE</item>
+        <item>Live.me</item>
+    </string-array>
+
+    <string-array name="app_packages">
+        <item>com.duowan.mobile</item>
+        <item>com.immomo.momo</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.tencent.tmgp.inke</item>
+        <item>com.huajiao</item>
+        <item>air.tv.douyu.android</item>
+        <item>com.duowan.kiwi</item>
+        <item>com.panda.videoliveplatform</item>
+        <item>com.kascend.chushou</item>
+        <item>com.gameabc.zhanqiAndroid</item>
+        <item>com.yy.ourtimes</item>
+        <item>com.tencent.now</item>
+        <item>com.maimiao.live.tv</item>
+        <item>com.wali.live</item>
+        <item>com.youku.crazytogether</item>
+        <item>com.yixia.videoeditor</item>
+        <item>com.meitu.meipaimv</item>
+        <item>cn.media17.story17</item>
+        <item>com.tencent.qqlivebroadcast</item>
+        <item>com.tencent.tv.qie</item>
+        <item>cn.myhug.baobao</item>
+        <item>tv.xiaoka.live</item>
+        <item>com.netease.cc</item>
+        <item>com.longzhu.tga</item>
+        <item>com.tiange.live</item>
+        <item>com.renren.mobile.android</item>
+        <item>com.nice.main</item>
+        <item>com.tiange.miaolive</item>
+        <item>com.guagua.qiqi</item>
+        <item>com.jj.shows</item>
+        <item>com.tiange.hz.happy88</item>
+        <item>com.soft.blued</item>
+        <item>com.redwolfama.peonylespark</item>
+        <item>com.yitonghang.youban</item>
+        <item>tv.twitch.android.app</item>
+        <item>tv.periscope.android</item>
+        <item>sg.bigo.live</item>
+        <item>com.cmcm.live</item>
+    </string-array>
 </resources>
