@@ -2,6 +2,7 @@
     <string name="app_name">app-monitor</string>
     
     <string-array name="Competitor_List">
+        <item>Twitter</item>
         <item>YY</item>
         <item>MOMO陌陌</item>
         <item>快手</item>
